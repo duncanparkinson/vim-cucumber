@@ -118,9 +118,9 @@ hi def link cucumberPlaceholder       Constant
 hi def link cucumberDelimiter         Delimiter
 hi def link cucumberTags              Tag
 hi def link cucumberString            String
-hi def link cucumberGiven             Conditional
+hi def link cucumberGiven             Number
 hi def link cucumberWhen              Function
-hi def link cucumberThen              Type
+hi def link cucumberThen              String
 
 let b:current_syntax = "cucumber"
 
